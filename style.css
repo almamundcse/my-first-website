@@ -1,0 +1,29 @@
+#main{
+    width: 1200px;
+    height: 1500px;
+    border: 2px solid rgb(24, 148, 5);
+    background-color: antiquewhite;
+}
+.menue{
+        width: 1200px;
+        height: 100px;
+        background-color: brown;
+        border-bottom: 2px solid ;
+        margin: 0px auto rgb(0, 43, 128);
+}
+.contant{
+    width: 500px;
+    height: 400px;
+    background-color: darkcyan;
+    border: 2px solid rgb(0, 43, 128);
+    margin-left: 171px;
+    float:left;
+}
+.contant2{
+    width: 350px;
+    height: 400px;
+    background-color: darkcyan;
+    border: 2px solid rgb(0, 43, 128);
+    margin-left: 675px;
+    
+}
