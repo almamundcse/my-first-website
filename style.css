@@ -8,22 +8,40 @@
         width: 1200px;
         height: 100px;
         background-color: brown;
-        border-bottom: 2px solid ;
-        margin: 0px auto rgb(0, 43, 128);
+        border-bottom: 2px solid antiquewhite;
+        margin:auto;
 }
 .contant{
     width: 500px;
-    height: 400px;
+    height: 300px;
     background-color: darkcyan;
-    border: 2px solid rgb(0, 43, 128);
+    border: 2px solid antiquewhite;
     margin-left: 171px;
     float:left;
 }
 .contant2{
     width: 350px;
-    height: 400px;
+    height: 300px;
     background-color: darkcyan;
-    border: 2px solid rgb(0, 43, 128);
+    border: 2px solid antiquewhite;
     margin-left: 675px;
     
+}
+.head{
+    margin-left: 100px;
+    color:darkolivegreen;
+}
+th, td{
+    border:1px solid black;
+    border-radius: 7px;
+    text-align:center;
+    font-size: 17px;
+}
+/* tabale heading*/
+.heading{
+    background-color: cadetblue;
+    color: rgb(236, 175, 7);
+}
+.student-id{
+    background-color: aliceblue;
 }
